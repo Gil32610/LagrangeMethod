@@ -1,0 +1,26 @@
+Question 1: Calculate L2(0,200000) using the following data:
+Abscissa:
+[ 0,100000, 0,600000, 0,800000 ]
+
+Ordinate:
+[ 1,221000, 3,320000, 4,953000 ]
+
+Interpolation result: L2(0,20) = 1,414
+
+Question 2: Calculate L2(1,200000) using the following data:
+Abscissa:
+[ 1,000000, 1,300000, 1,700000, 2,000000 ]
+
+Ordinate:
+[ 0,841500, 1,252600, 1,685800, 1,818600 ]
+
+Interpolation result: L3(1,20) = 1,119
+
+Question 3: Calculate L2(0,200000) using the following data:
+Abscissa:
+[ 0,100000, 0,600000 ]
+
+Ordinate:
+[ 1,221000, 3,320000 ]
+
+Interpolation result: L1(0,20) = 1,641
